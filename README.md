@@ -1,4 +1,5 @@
 # StackStorm in Docker Compose
+# adapted to docker swarm and custom volume
 
 [![CI Build Status](https://github.com/StackStorm/st2-docker/actions/workflows/st2-docker.yml/badge.svg)](https://github.com/StackStorm/st2-docker/actions/workflows/st2-docker.yml)
 
