@@ -270,6 +270,6 @@ volumes:
 
 networks:
   public:
-    driver: bridge
+    driver: overlay
   private:
-    driver: bridge
+    driver: overlay
